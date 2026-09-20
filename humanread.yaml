@@ -1,0 +1,67 @@
+version: 1
+title: 小桃的成语小院：亡羊补牢
+slug: translation-34-zh-hans-8150c2
+summary: 一块歪木板、一句“明天再修”，让蓝领巾小羊走出了羊圈。阿禾和小桃循着脚印找回它，还要一起修好留下的破洞。六幕 CSS 动态绘本。
+cover_color: '#458f87'
+cover_asset: assets/b3f93e8cfb0c0f85f995141a4e4c514f7f2875a6b812818f3b392773be00b541.webp
+share_card: null
+author: Humanread Founder
+metadata:
+  age_rating: all
+  content_warnings: ''
+  language: zh-Hans
+  primary_genre: youth
+  secondary_genre: literary
+  serial_status: completed
+  tags:
+  - fable
+  - picture-book
+  - CSS-animation
+  warning_level: none
+translation:
+  authorization: self
+  original_author: Humanread Founder
+  source_content_hash: 5690be4f76179b8756c88463ad789257f29703f560153a2a87fbd017893f57ed
+  source_novel_id: 34
+  source_slug: novel-2b1c76e1-225d9c
+  source_title: 小桃的成語小院：亡羊補牢
+  source_version_id: 72
+  target_language: zh-Hans
+  translator: Humanread Founder
+chapters:
+- id: 719
+  title: 明天再修吧
+  position: 1
+  file: chapters/0001-719.html
+  format: sandbox-html-css
+  share_card: null
+- id: 720
+  title: 数到二，就停住了
+  position: 2
+  file: chapters/0002-720.html
+  format: sandbox-html-css
+  share_card: null
+- id: 721
+  title: 草地上的蓝色
+  position: 3
+  file: chapters/0003-721.html
+  format: sandbox-html-css
+  share_card: null
+- id: 722
+  title: 回家，还不算做完
+  position: 4
+  file: chapters/0004-722.html
+  format: sandbox-html-css
+  share_card: null
+- id: 723
+  title: 先扶正，再绑牢
+  position: 5
+  file: chapters/0005-723.html
+  format: sandbox-html-css
+  share_card: null
+- id: 724
+  title: 今天，就能开始
+  position: 6
+  file: chapters/0006-724.html
+  format: sandbox-html-css
+  share_card: null
